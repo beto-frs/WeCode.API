@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WeCode.API</name>
+    </assembly>
+    <members>
+        <member name="M:WeCode.API.Controllers.EspectadoresController.GetEspectadores">
+            <summary>
+            Lista todos os espectadores.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.EspectadoresController.GetEspectador(System.Int32)">
+            <summary>
+            Localiza um espectador pelo id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.EspectadoresController.PutEspectador(System.Int32,WeCode.API.Model.Espectador)">
+            <summary>
+            Altera um espectador pelo id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.EspectadoresController.PostEspectador(WeCode.API.Model.Espectador)">
+            <summary>
+            Inclui um espectador.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.EspectadoresController.DeleteEspectador(System.Int32)">
+            <summary>
+            Apaga um espectador pelo id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.FilmesController.GetFilmes">
+            <summary>
+            Lista todos os filmes.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.FilmesController.GetFilme(System.Int32)">
+            <summary>
+            Localiza um filme pelo id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.FilmesController.PutFilme(System.Int32,WeCode.API.Model.Filme)">
+            <summary>
+            Atualiza o filme pelo id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.FilmesController.PostFilme(WeCode.API.Model.Filme)">
+            <summary>
+            Inclui novo filme.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.FilmesController.DeleteFilme(System.Int32)">
+            <summary>
+            Apaga o filme pelo id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.VisualizadosController.GetVisualizados">
+            <summary>
+            Lista todos as visualizações.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.VisualizadosController.GetVisualizado(System.Int32)">
+            <summary>
+            Localiza uma visualização pelo Id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.VisualizadosController.PutVisualizado(System.Int32,WeCode.API.ViewModel.Visualizado)">
+            <summary>
+            Atualiza a visualização pelo id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.VisualizadosController.PostVisualizado(WeCode.API.ViewModel.Visualizado)">
+            <summary>
+            Inclui nova visualização.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.VisualizadosController.DeleteVisualizado(System.Int32)">
+            <summary>
+            Apaga o filme pelo id.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.VisualizadosController.FilmeVisualizado(System.Int32)">
+            <summary>
+            Lista a quantidade de espectadores por filme pelo Id do Filme.
+            </summary>
+        </member>
+        <member name="M:WeCode.API.Controllers.VisualizadosController.EspectadorVisualizado(System.Int32)">
+            <summary>
+            Lista a quantidade de filmes por espectador pelo Id do Espectador.
+            </summary>
+        </member>
+    </members>
+</doc>
