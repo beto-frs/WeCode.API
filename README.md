@@ -11,14 +11,11 @@
 *● Deve ser possível ler a lista de espectadores cadastrados;*<br>
 *● Deve ser possível marcar que um espectador viu um filme;*<br>
 *● Deve ser possível ver quantos filmes cada espectador viu;*<br>
-*● Deve ser possível ver quantos espectadores um filme teve.*<br>
-
-
-## Pontos Extras:
-
-*● Se você publicou o código em algum servidor que eu possa acessar diretamente;*
-*● Se o seu código está bem estruturado e comentado;*
-*● Se você escrever uma explicação simples de como a API deve ser acessada;*
+*● Deve ser possível ver quantos espectadores um filme teve.*<br><br>
+### Pontos Extras:<br>
+*● Se você publicou o código em algum servidor que eu possa acessar diretamente;*<br>
+*● Se o seu código está bem estruturado e comentado;*<br>
+*● Se você escrever uma explicação simples de como a API deve ser acessada;*<br>
 *● Se você me der acesso “somente leitura” ao seu banco de dados para eu verificar*
 *como ficou.*
 
@@ -30,9 +27,8 @@
 
 <br>
 
-<br>
 
-##### Foram utilizados os seguintes pacotes:
+##### Foram utilizados os seguintes pacotes NuGet:
 
 *Entity Framework Core*
 
@@ -51,6 +47,8 @@
 <br>
 
 <br>
+
+##### Obs: API documentada, com a descrição de cada ação que será executada. Habilitada a interface do Swagger, para mellhor visualização e teste.
 
 ## Screenshots
 
