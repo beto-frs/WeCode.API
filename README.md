@@ -1,21 +1,20 @@
 ## TESTE PRÁTICO - WeDecode ( Back-End )
 
-##### Requisitos:
+### Requisitos:
 
-*● O back-end deve ser programado obrigatoriamente em Node.js ou .NetCore.*
-*● Deve ser usado algum ORM para mapear o banco de dados no código.*
-*Casos de Uso:*
-*● Deve ser possível inserir novos filmes;*
-*● Deve ser possível ler a lista de filmes cadastrados;*
-*● Deve ser possível inserir novos espectadores;*
-*● Deve ser possível ler a lista de espectadores cadastrados;*
-*● Deve ser possível marcar que um espectador viu um filme;*
-*● Deve ser possível ver quantos filmes cada espectador viu;*
-*● Deve ser possível ver quantos espectadores um filme teve.*
+*● O back-end deve ser programado obrigatoriamente em Node.js ou .NetCore.*<br>
+*● Deve ser usado algum ORM para mapear o banco de dados no código.*<br><br>
+### Casos de uso:<br>
+*● Deve ser possível inserir novos filmes;*<br>
+*● Deve ser possível ler a lista de filmes cadastrados;*<br>
+*● Deve ser possível inserir novos espectadores;*<br>
+*● Deve ser possível ler a lista de espectadores cadastrados;*<br>
+*● Deve ser possível marcar que um espectador viu um filme;*<br>
+*● Deve ser possível ver quantos filmes cada espectador viu;*<br>
+*● Deve ser possível ver quantos espectadores um filme teve.*<br>
 
-<br>
 
-##### Pontos Extras:
+## Pontos Extras:
 
 *● Se você publicou o código em algum servidor que eu possa acessar diretamente;*
 *● Se o seu código está bem estruturado e comentado;*
@@ -55,15 +54,15 @@
 
 ## Screenshots
 
-![](C:\Users\beto-\PROJETOS\Testes Práticos\WeCode\WeCode.API\img\1.png)
+<img src="img\1.png">
 
 ------
 
-![](C:\Users\beto-\PROJETOS\Testes Práticos\WeCode\WeCode.API\img\2.png)
+<img src="img\2.png">
 
 ------
 
-![](C:\Users\beto-\PROJETOS\Testes Práticos\WeCode\WeCode.API\img\3.png)
+<img src="img\3.png">
 
 
 
