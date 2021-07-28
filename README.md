@@ -48,7 +48,7 @@
 
 <br>
 
-##### Obs: API documentada, com a descrição de cada ação que será executada. Habilitada a interface do Swagger, para mellhor visualização e teste.
+##### Obs: API documentada, com a descrição de cada ação que será executada. Habilitada a interface do Swagger, para melhor visualização e teste.
 
 ## Screenshots
 
